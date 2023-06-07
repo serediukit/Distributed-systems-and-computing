@@ -1,0 +1,12 @@
+D:\git\Distributed-systems-and-computing\Lab4\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.deps.json
+D:\git\Distributed-systems-and-computing\Lab4\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.dll
+D:\git\Distributed-systems-and-computing\Lab4\ClassLibrary1\bin\Debug\net5.0\ref\ClassLibrary1.dll
+D:\git\Distributed-systems-and-computing\Lab4\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.pdb
+D:\git\Distributed-systems-and-computing\Lab4\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.csproj.AssemblyReference.cache
+D:\git\Distributed-systems-and-computing\Lab4\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Distributed-systems-and-computing\Lab4\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.AssemblyInfoInputs.cache
+D:\git\Distributed-systems-and-computing\Lab4\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.AssemblyInfo.cs
+D:\git\Distributed-systems-and-computing\Lab4\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\git\Distributed-systems-and-computing\Lab4\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.dll
+D:\git\Distributed-systems-and-computing\Lab4\ClassLibrary1\obj\Debug\net5.0\ref\ClassLibrary1.dll
+D:\git\Distributed-systems-and-computing\Lab4\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.pdb
