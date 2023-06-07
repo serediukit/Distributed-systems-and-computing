@@ -1,0 +1,4 @@
+D:\git\Distributed-systems-and-computing\Lab3\Lab3\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\git\Distributed-systems-and-computing\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+D:\git\Distributed-systems-and-computing\Lab3\Lab3\obj\Debug\Client.csproj.GenerateResource.cache
+D:\git\Distributed-systems-and-computing\Lab3\Lab3\obj\Debug\Client.csproj.CoreCompileInputs.cache

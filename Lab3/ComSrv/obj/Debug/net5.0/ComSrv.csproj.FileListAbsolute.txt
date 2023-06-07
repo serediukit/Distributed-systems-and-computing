@@ -1,0 +1,17 @@
+D:\git\Distributed-systems-and-computing\Lab3\ComSrv\bin\Debug\net5.0\ComSrv.exe
+D:\git\Distributed-systems-and-computing\Lab3\ComSrv\bin\Debug\net5.0\ComSrv.deps.json
+D:\git\Distributed-systems-and-computing\Lab3\ComSrv\bin\Debug\net5.0\ComSrv.runtimeconfig.json
+D:\git\Distributed-systems-and-computing\Lab3\ComSrv\bin\Debug\net5.0\ComSrv.runtimeconfig.dev.json
+D:\git\Distributed-systems-and-computing\Lab3\ComSrv\bin\Debug\net5.0\ComSrv.dll
+D:\git\Distributed-systems-and-computing\Lab3\ComSrv\bin\Debug\net5.0\ref\ComSrv.dll
+D:\git\Distributed-systems-and-computing\Lab3\ComSrv\bin\Debug\net5.0\ComSrv.pdb
+D:\git\Distributed-systems-and-computing\Lab3\ComSrv\bin\Debug\net5.0\System.Data.OleDb.dll
+D:\git\Distributed-systems-and-computing\Lab3\ComSrv\obj\Debug\net5.0\ComSrv.csproj.AssemblyReference.cache
+D:\git\Distributed-systems-and-computing\Lab3\ComSrv\obj\Debug\net5.0\ComSrv.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Distributed-systems-and-computing\Lab3\ComSrv\obj\Debug\net5.0\ComSrv.AssemblyInfoInputs.cache
+D:\git\Distributed-systems-and-computing\Lab3\ComSrv\obj\Debug\net5.0\ComSrv.AssemblyInfo.cs
+D:\git\Distributed-systems-and-computing\Lab3\ComSrv\obj\Debug\net5.0\ComSrv.csproj.CoreCompileInputs.cache
+D:\git\Distributed-systems-and-computing\Lab3\ComSrv\obj\Debug\net5.0\ComSrv.dll
+D:\git\Distributed-systems-and-computing\Lab3\ComSrv\obj\Debug\net5.0\ref\ComSrv.dll
+D:\git\Distributed-systems-and-computing\Lab3\ComSrv\obj\Debug\net5.0\ComSrv.pdb
+D:\git\Distributed-systems-and-computing\Lab3\ComSrv\obj\Debug\net5.0\ComSrv.genruntimeconfig.cache
